@@ -1,10 +1,10 @@
-package org.test.Gener;
+package org.test.oneannotation;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GenerApplicationTests {
+class OneannotationApplicationTests {
 
 	@Test
 	void contextLoads() {
